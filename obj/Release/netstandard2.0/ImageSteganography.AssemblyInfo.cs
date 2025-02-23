@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImageSteganography")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e40746913adcaaff0fc4ff66ddaeefcacf8fb6ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImageSteganography")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImageSteganography")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
