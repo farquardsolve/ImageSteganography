@@ -1,0 +1,10 @@
+C:\Users\sfakuade\source\repos\ImageSteganography\ImageSteganography\bin\Debug\netstandard2.0\ImageSteganography.deps.json
+C:\Users\sfakuade\source\repos\ImageSteganography\ImageSteganography\bin\Debug\netstandard2.0\ImageSteganography.dll
+C:\Users\sfakuade\source\repos\ImageSteganography\ImageSteganography\bin\Debug\netstandard2.0\ImageSteganography.pdb
+C:\Users\sfakuade\source\repos\ImageSteganography\ImageSteganography\obj\Debug\netstandard2.0\ImageSteganography.csproj.AssemblyReference.cache
+C:\Users\sfakuade\source\repos\ImageSteganography\ImageSteganography\obj\Debug\netstandard2.0\ImageSteganography.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sfakuade\source\repos\ImageSteganography\ImageSteganography\obj\Debug\netstandard2.0\ImageSteganography.AssemblyInfoInputs.cache
+C:\Users\sfakuade\source\repos\ImageSteganography\ImageSteganography\obj\Debug\netstandard2.0\ImageSteganography.AssemblyInfo.cs
+C:\Users\sfakuade\source\repos\ImageSteganography\ImageSteganography\obj\Debug\netstandard2.0\ImageSteganography.csproj.CoreCompileInputs.cache
+C:\Users\sfakuade\source\repos\ImageSteganography\ImageSteganography\obj\Debug\netstandard2.0\ImageSteganography.dll
+C:\Users\sfakuade\source\repos\ImageSteganography\ImageSteganography\obj\Debug\netstandard2.0\ImageSteganography.pdb
