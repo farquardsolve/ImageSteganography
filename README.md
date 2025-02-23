@@ -16,7 +16,7 @@ You can install the package from NuGet:
 ```
 
 ### Manual Installation
-1. Download the latest release from [GitHub Releases](https://github.com/YourGitHubUsername/ImageSteganography).
+1. Download the latest release from [GitHub Releases](https://github.com/farquardsolve/ImageSteganography).
 2. Add a reference to the **ImageSteganography.dll** in your project.
 
 ## Usage
